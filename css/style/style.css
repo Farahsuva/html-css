@@ -1,0 +1,43 @@
+.header{
+    background: black;
+    min-height: 100px;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    
+}
+.container{
+    overflow: hidden;
+}
+.column-1{
+    min-height: 200px;
+    background-color: cornflowerblue;
+    width: 33.33%;
+    float: left;
+}
+.column-2{ min-height: 200px;
+    background-color:goldenrod;
+    width: 33.33%;
+    float: left;
+
+    
+
+}
+.column-3{
+    min-height: 200px;
+    background-color:green;
+    width: 33.33%;
+    float: left}
+
+    .footer{
+        min-height: 100px;
+        background: black;
+        color: gainsboro;
+        text-align: center;
+        padding: 25px;
+
+    }
+
+    
+
+
